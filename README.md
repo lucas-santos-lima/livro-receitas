@@ -2,9 +2,9 @@
 
 ## Olá bem vindo ao meu livro de receitas :wave:
 
-- Receita 1
+- Miojo
 
-- Receita 2
+- Torta
 
 - Receita 3
 
